@@ -199,7 +199,7 @@ const Row3 = () => {
             width='40%'
           ></Box>
         </Box>
-        <Typography margin='0 1rem' variant='h3'>
+        <Typography margin='0 1rem' variant='h4'>
           Financial Dashboard built by{' '}
           <a href='https://github.com/KevinGastelum' target='_blank'>
             Kevin G
